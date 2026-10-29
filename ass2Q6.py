@@ -1,7 +1,7 @@
 import array as arr
 
 # Create an integer array containing eight elements
-numbers = arr.array('i', [10, 20, 30, 40, 50, 60, 70])
+numbers = arr.array('i', [10, 20, 30, 40, 50, 60, 70, 80])
 
 # (a) Display array and access elements using indexing and slicing
 print("Original Array:", numbers)
